@@ -1,6 +1,9 @@
 # Presentación
 
     Hola a todos! 
+    Legajo: 1718344
+    
+    <img src="fotomia.jpg">
 
     Mi nombre es Julia Martí y este es mi segundo año en la UTN, pero antes de entrar   
     estuve de acá para allá en la UBA, 2 años de psicología y uno de diseño de imagen   
@@ -16,6 +19,7 @@
     de youtube.
     
    Les dejo una foto de Cosette (Nombre puesto por la nena de Los Miserables, que sería mi película favorita) y mi [Instagram](https://www.instagram.com/juulimarti/?hl=es-la)
-
+   
+     <img src="cosette.jpg">
 
       Muy buena cursada! Saludos
