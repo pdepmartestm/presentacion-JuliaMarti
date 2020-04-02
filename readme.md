@@ -14,6 +14,8 @@
     En cuanto a mis conocimientos de programación son bastante escasos, muy poco    
     de c++ por algoritmos, y algo de html, css y boostrap por más benditos videítos   
     de youtube.
+    
+   Les dejo una foto de Cosette (Nombre puesto por la nena de Los Miserables, que sería mi película favorita) y mi [Instagram](https://www.instagram.com/juulimarti/?hl=es-la)
 
 
       Muy buena cursada! Saludos
